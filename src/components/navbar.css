@@ -1,0 +1,32 @@
+.background{
+    margin-top: -3%;
+    background-image: url("../assets/background.jpeg");
+    color: transparent;
+    height: 17vh;
+}
+
+.search{
+    border: none;
+    border-radius: 13px;
+    position: relative;
+     height: 30%;
+     display: flex;
+     margin: 0 25%;
+     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+     margin-top: -2%;
+}
+
+.search label{
+ margin: 3% 0 3% 5%;
+}
+
+.search input{
+    width: 70%;
+    margin: 2% 3%;
+    padding: 1%;
+    border: transparent;
+    
+}
+.search input:focus-visible{
+    outline: none;
+}
