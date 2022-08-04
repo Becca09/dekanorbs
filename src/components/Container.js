@@ -7,8 +7,7 @@ const Container = ()=>(
 <div>
         <NavBar/>
        <Card/>
-        
-        <h1>Application</h1>
+    
     </div>
 )
     

@@ -1,6 +1,6 @@
 import React from 'react'
 import search from '../../src/assets/search.svg'
-import './navbar.css'
+import '../components/CSS/navbar.css'
 
 const NavBar = () => {
   return (
