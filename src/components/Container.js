@@ -1,12 +1,13 @@
 import NavBar from "./NavBar";
-import Card from "./Card"
+
+import CardList from "./CardList";
 
 
 
 const Container = ()=>(
 <div>
         <NavBar/>
-       <Card/>
+       <CardList/>
     
     </div>
 )

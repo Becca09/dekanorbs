@@ -21,17 +21,17 @@
 }
 
 
-.right{
+.left{
     margin-right: 30%;
    
 
 }
 
-.left{
+.right{
     display: flex;
 }
 
-.left p{
+.right p{
     padding: 2%;
     text-align: center;
     margin: 0 2%;
