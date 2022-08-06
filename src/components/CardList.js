@@ -9,7 +9,7 @@ const CardList = () => {
     <div>
           <div className="cardlist">
               {nativeData.map((data) => (
-                <Card data={data} key={data.id} />
+                <Card native={data} key={data.id} />
               ))}
             
           </div>      

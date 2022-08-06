@@ -1,6 +1,8 @@
 .background{
     margin-top: -3%;
     background-image: url("../../assets/background.jpeg");
+    background-repeat: none;
+    background-position: cover;
     color: transparent;
     height: 17vh;
 }

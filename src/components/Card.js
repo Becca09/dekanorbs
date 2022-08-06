@@ -1,6 +1,5 @@
 import React from "react";
 import "../components/CSS/card.css";
-import nativeData from "./Data";
 
 
 const Card = ({native}) => {
