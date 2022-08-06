@@ -2,7 +2,7 @@ import React from "react";
 import "../components/CSS/card.css";
 
 
-const Card = (props) => {
+const Card = () => {
   return (
     <div className="card">
       <div className="left">
